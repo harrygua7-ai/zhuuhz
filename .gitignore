@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+
+# Local/editor files
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Runtime/cache output
+.cache/
+tmp/
+dist/
+

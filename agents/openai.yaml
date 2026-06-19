@@ -1,0 +1,7 @@
+interface:
+  display_name: "热点跟稿官"
+  short_description: "核查热点并生成像本人写的发布就绪稿"
+  default_prompt: "Use $ip-trend-draft-copilot to verify a trend and draft a publish-ready post in my personal IP voice."
+
+policy:
+  allow_implicit_invocation: true
